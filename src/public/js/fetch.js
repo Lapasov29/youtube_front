@@ -1,5 +1,5 @@
 // change api to yours
-const backendApi = 'https://youtube-backend-server-app.herokuapp.com/'
+const backendApi = 'https://youtube-backend-server-app.herokuapp.com'
 
 async function request (route, method, body) {
 	let headers = {
